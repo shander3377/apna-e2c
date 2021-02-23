@@ -4,8 +4,8 @@
     "app.js.map": "/apna-e2c/static/js/app.c24e62d4.chunk.js.map",
     "runtime~app.js": "/apna-e2c/static/js/runtime~app.2f939726.js",
     "runtime~app.js.map": "/apna-e2c/static/js/runtime~app.2f939726.js.map",
-    "static/js/2.910e2879.chunk.js": "/apna-e2c/static/js/2.910e2879.chunk.js",
-    "static/js/2.910e2879.chunk.js.map": "/apna-e2c/static/js/2.910e2879.chunk.js.map",
+    "static/js/2.26408e0d.chunk.js": "/apna-e2c/static/js/2.26408e0d.chunk.js",
+    "static/js/2.26408e0d.chunk.js.map": "/apna-e2c/static/js/2.26408e0d.chunk.js.map",
     ".expo/README.md": "/apna-e2c/.expo/README.md",
     "favicon-16.png": "/apna-e2c/favicon-16.png",
     "favicon-32.png": "/apna-e2c/favicon-32.png",
@@ -13,11 +13,11 @@
     "index.html": "/apna-e2c/index.html",
     "manifest.json": "/apna-e2c/manifest.json",
     "serve.json": "/apna-e2c/serve.json",
-    "static/js/2.910e2879.chunk.js.LICENSE.txt": "/apna-e2c/static/js/2.910e2879.chunk.js.LICENSE.txt"
+    "static/js/2.26408e0d.chunk.js.LICENSE.txt": "/apna-e2c/static/js/2.26408e0d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime~app.2f939726.js",
-    "static/js/2.910e2879.chunk.js",
+    "static/js/2.26408e0d.chunk.js",
     "static/js/app.c24e62d4.chunk.js"
   ]
 }

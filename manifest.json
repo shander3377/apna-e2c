@@ -2,8 +2,8 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "apnE2C",
-  "short_name": "apnE2C",
+  "name": "APNAe2C",
+  "short_name": "APNAe2C",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "icons": [
